@@ -16,3 +16,16 @@ titre du commit
 
 Description de notre commit avec des information sur l'evolution du projet
 ```
+
+## Envoyer un commit sur le dépot distant
+
+```bash
+git commit -m "titre du commit"
+git push
+```
+
+## Creation d'une branche
+
+```bash
+$ git checkout -b develop
+```
