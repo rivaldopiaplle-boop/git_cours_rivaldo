@@ -20,7 +20,7 @@ Description de notre commit avec des information sur l'evolution du projet
 ## Envoyer un commit sur le dépot distant
 
 ```bash
-git commit -m "titre du commit"
+git commit -m "titre du commit et sous titre"
 git push
 ```
 
