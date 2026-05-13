@@ -21,6 +21,7 @@ Description de notre commit avec des information sur l'evolution du projet
 
 ```bash
 git commit -m "commit"
+git commit -m "titre du commit et sous titre"
 git push
 ```
 
